@@ -1,6 +1,6 @@
 -- Example: Display modes
 -- Author: surtic
-
+-- Пример: Режимы отображения
 --[[Description:
 Author: surtic
 Displays supported fullscreen modes
