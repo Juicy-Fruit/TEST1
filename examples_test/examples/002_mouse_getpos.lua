@@ -3,7 +3,11 @@
 Get the mouse position with love.mouse.getPosition()
 Display it with love.graphics.print
 ]]
-
+-- Пример: Получение позиции мыши
+--[[Описание:
+Получить позицию мыши с love.mouse.getPosition ()
+Дисплей с его love.graphics.print
+]]
 function love.load()
     love.graphics.setFont(love.graphics.newFont(11))
 end
