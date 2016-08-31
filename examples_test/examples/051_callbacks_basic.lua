@@ -1,4 +1,5 @@
 -- Example: Basic callbacks
+-- Пример: Основные функции обратного вызова
 function love.load()
     love.graphics.setFont(love.graphics.newFont(11))
 end
