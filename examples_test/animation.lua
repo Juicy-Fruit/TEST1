@@ -27,7 +27,7 @@ local anim_mt = {}
 anim_mt.__index = anim_mt
 
 function newAnimation(image, fw, fh, delay, frames)
-	local a = {}
+	local a = {} -- создается глобальная переменая 
 	a.img = image
 	a.frames = {}
 	a.delays = {}
